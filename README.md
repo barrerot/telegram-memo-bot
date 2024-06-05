@@ -17,10 +17,10 @@ git clone https://github.com/barrerot/telegram-memo-bot.git
    ```plaintext
    TELEGRAM_API_TOKEN=tu_token_de_telegram
    MEMOS_API_TOKEN=tu_token_de_memos
-   MEMOS_API_URL=la_url_de_tu_api_de_memos
+   MEMOS_API_URL=
    ```
 4. Ejecuta el bot:
-   ```sh
+   ```shhttps://tudominio_memos.com/api/v1/memos
    npm start
    ```
 
